@@ -1,7 +1,7 @@
 # Introduction
 This repository provides a comprehensive overview of my one-month Data Analyst internship at Unified Mentor Pvt. Ltd., focusing on two main projects aimed at analyzing sales data and bird strike incidents.
 
-# Project 1: Amazon Sales Analysis
+# Project 1: Amazon Sales Analysis (https://github.com/Dubeyavya/Amazon-sales-analysis)
 Problem Statement
 How can we leverage historical sales data to forecast future trends and optimize inventory?
 
@@ -22,7 +22,7 @@ Developed an interactive dashboard showcasing sales performance, product popular
 Identified top-selling products and peak sales periods.
 Recommended inventory adjustments to reduce stockouts and overstock.
 
-# Project 2: Bird Strikes Analysis
+# Project 2: Bird Strikes Analysis (https://github.com/Dubeyavya/Bird-strikes-analysis)
 ## Problem Statement
 What patterns in bird strikes can be identified to mitigate risks to aircraft?
 
